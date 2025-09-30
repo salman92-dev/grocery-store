@@ -86,7 +86,7 @@
   {
     "id": 1759253418266,
     "name": "Salman Ahmad",
-    "price": "88",
+    "price": 88,
     "category": "fruits",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1759253368613-salman.png"
   }
