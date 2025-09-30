@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Fresh Organic Spinach",
-    "price": "100",
+    "price": 100,
     "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&h=300&fit=crop",
     "category": "vegetables"
   },
