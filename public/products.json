@@ -84,13 +84,6 @@
     "category": "groceries"
   },
   {
-    "id": 1759257500785,
-    "name": "ALPHA_VANTAGE_API_KEY",
-    "price": 36,
-    "category": "fruits",
-    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1759257497139-ChatGPT-Image-Sep-7--2025--02_04_41-PM.png"
-  },
-  {
     "id": 1759258083240,
     "name": "Curd",
     "price": 220,
