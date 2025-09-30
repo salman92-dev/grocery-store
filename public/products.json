@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Organic Spinach",
+    "price": 80,
+    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&h=300&fit=crop",
+    "category": "vegetables"
+  },
+  {
+    "id": 2,
+    "name": "Grass-Fed Ground Beef",
+    "price": 800,
+    "image": "https://images.unsplash.com/photo-1603048297172-c92544798d5a?w=400&h=300&fit=crop",
+    "category": "meat"
+  },
+  {
+    "id": 3,
+    "name": "Organic Gala Apples",
+    "price": 200,
+    "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400&h=300&fit=crop",
+    "category": "fruits"
+  },
+  {
+    "id": 4,
+    "name": "Fresh Whole Milk",
+    "price": 220,
+    "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=400&h=300&fit=crop",
+    "category": "groceries"
+  },
+  {
+    "id": 5,
+    "name": "Organic Carrots",
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1445282768818-728615cc910a?w=400&h=300&fit=crop",
+    "category": "vegetables"
+  },
+  {
+    "id": 6,
+    "name": "Free-Range Chicken Breast",
+    "price": 700,
+    "image": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=400&h=300&fit=crop",
+    "category": "meat"
+  },
+  {
+    "id": 7,
+    "name": "Fresh Strawberries",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=400&h=300&fit=crop",
+    "category": "fruits"
+  },
+  {
+    "id": 8,
+    "name": "Artisan Sourdough Bread",
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=300&fit=crop",
+    "category": "groceries"
+  },
+  {
+    "id": 9,
+    "name": "Bell Peppers Mix",
+    "price": 60,
+    "image": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?w=400&h=300&fit=crop",
+    "category": "vegetables"
+  },
+  {
+    "id": 10,
+    "name": "Wild-Caught Salmon",
+    "price": 2000,
+    "image": "https://images.unsplash.com/photo-1544943910-4c1dc44aab44?w=400&h=300&fit=crop",
+    "category": "meat"
+  },
+  {
+    "id": 11,
+    "name": "Organic Bananas",
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&h=300&fit=crop",
+    "category": "fruits"
+  },
+  {
+    "id": 12,
+    "name": "Local Honey",
+    "price": 2400,
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=300&fit=crop",
+    "category": "groceries"
+  }
+]
