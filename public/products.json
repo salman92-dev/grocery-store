@@ -9,9 +9,9 @@
   {
     "id": 3,
     "name": "Organic Gala Apples - 1 kg",
-    "price": 200,
+    "price": 0,
     "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400&h=300&fit=crop",
-    "category": "fruits"
+    "category": "Not available "
   },
   {
     "id": 4,
