@@ -49,13 +49,6 @@
     "category": "fruits"
   },
   {
-    "id": 8,
-    "name": "Artisan Sourdough Bread",
-    "price": 120,
-    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=300&fit=crop",
-    "category": "groceries"
-  },
-  {
     "id": 9,
     "name": "Bell Peppers Mix",
     "price": 60,
