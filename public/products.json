@@ -22,10 +22,10 @@
   },
   {
     "id": 4,
-    "name": "Fresh Whole Milk",
+    "name": "Fresh Whole Milk - 1 liter ",
     "price": 220,
     "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=400&h=300&fit=crop",
-    "category": "groceries"
+    "category": "grocerie"
   },
   {
     "id": 5,
