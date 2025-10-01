@@ -25,7 +25,7 @@
     "name": "Organic Carrots - 1 kg",
     "price": 120,
     "image": "https://images.unsplash.com/photo-1445282768818-728615cc910a?w=400&h=300&fit=crop",
-    "category": "vegetable"
+    "category": "vegetables\t"
   },
   {
     "id": 6,
