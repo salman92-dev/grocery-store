@@ -103,5 +103,12 @@
     "price": 150,
     "category": "fruits",
     "image": "https://images.unsplash.com/photo-1588931929796-8f0ea6da0faa?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 1759295292295,
+    "name": "hi",
+    "price": 60,
+    "category": "fruits",
+    "image": "https://images.unsplash.com/photo-1603048297172-c92544798d5a?w=400&h=300&fit=crop"
   }
 ]
