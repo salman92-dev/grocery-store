@@ -133,3 +133,6 @@ All colors MUST be HSL.
 .animate-spin-slow {
   animation: spin-slow 2s linear infinite;
 }
+html {
+  scroll-behavior: smooth;
+}

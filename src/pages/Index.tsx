@@ -20,13 +20,8 @@ const Index = () => {
   const [filteredProducts, setFilteredProducts] = useState<Product[]>([]);
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [loading, setLoading] = useState(true);
-  const [dataloading, setdataLoading] = useState(true);
 
 
-  useEffect(() => {
-    const timer: NodeJS.Timeout = setTimeout(() => setdataLoading(false), 1500); // simulate delay
-    return () => clearTimeout(timer);
-  }, []);
 
   useEffect(() => {
     const fetchProducts = async () => {
@@ -57,12 +52,11 @@ const Index = () => {
 
   return (
     <>
-    {dataloading ? <Loader /> : 
     <div className="min-h-screen bg-gradient-hero">
       <Header />
       <Hero />
       
-      <section id="products" className="py-16 max-md:pt-[18rem]">
+      <section id="shop" className="py-16 max-md:pt-[18rem]">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-foreground mb-4">
@@ -108,7 +102,7 @@ const Index = () => {
       </section>
       
       <Footer />
-    </div>}
+    </div>
     </>
   );
 };

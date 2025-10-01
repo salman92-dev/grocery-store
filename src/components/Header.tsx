@@ -22,6 +22,7 @@ const Header: React.FC = () => {
 
   const navItems = [
     { name: "Home", path: "/", icon: Leaf },
+    { name: "Shop", path: "/#shop", icon: ShoppingCart },
     { name: "About", path: "/about", icon: Info },
     { name: "Contact", path: "/contact", icon: Phone },
     { name: "FAQ", path: "/faq", icon: HelpCircle },
@@ -45,10 +46,7 @@ const Header: React.FC = () => {
   };
 
   return (
-    <motion.header
-      variants={headerVariants}
-      initial="hidden"
-      animate="visible"
+    <header
       className="bg-white shadow-soft sticky top-0 z-50 border-b border-fresh-green-light/20"
     >
       <div className="container mx-auto px-4">
@@ -193,7 +191,7 @@ const Header: React.FC = () => {
           )}
         </AnimatePresence>
       </div>
-    </motion.header>
+    </header>
   );
 };
 

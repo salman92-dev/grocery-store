@@ -123,7 +123,7 @@ const Cart: React.FC = () => {
             <h1 className="text-3xl font-heading font-bold text-foreground mb-4">Your cart is empty</h1>
             <p className="text-lg font-body text-neutral-gray mb-8">Add some fresh products to get started!</p>
             <Button
-              onClick={() => window.history.back()}
+              onClick={() => window.location.href = '/#shop'}
               className="bg-gradient-fresh text-white hover:bg-fresh-green shadow-button"
             >
               Continue Shopping
