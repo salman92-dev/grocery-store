@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Fresh Organic Spinach - 1 unit",
-    "price": 180,
-    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&h=300&fit=crop",
-    "category": "vegetables"
-  },
-  {
     "id": 2,
     "name": "Grass-Fed Ground Beef -  1 kg",
     "price": 800,
