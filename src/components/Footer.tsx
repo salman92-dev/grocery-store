@@ -117,6 +117,9 @@ const Footer: React.FC = () => {
           </p>
         </div>
       </div>
+      <p className="bg-black font-body text-white text-base py-3 text-center">
+           Made with ❤️ by <a href='https://dev-salman-portfolio.netlify.app/' className="text-fresh-green font-semibold">Salman92-dev</a>
+        </p>
     </footer>
   );
 };
