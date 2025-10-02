@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { ChevronDown, ChevronUp, HelpCircle, Search } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 import { motion, AnimatePresence } from 'framer-motion';
 
 interface FAQItem {
@@ -225,6 +226,7 @@ const FAQ: React.FC = () => {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 };

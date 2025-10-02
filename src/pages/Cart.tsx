@@ -5,6 +5,7 @@ import { Minus, Plus, Trash2, ShoppingBag, MapPin } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import Header from '@/components/Header';
 import Loader from '@/components/Loader';
+import Footer from '@/components/Footer';
 
 const Cart: React.FC = () => {
   const { state, updateQuantity, removeFromCart, clearCart } = useCart();
@@ -130,6 +131,7 @@ const Cart: React.FC = () => {
             </Button>
           </div>
         </div>
+        <Footer/>
       </div>
     );
   }
@@ -250,6 +252,7 @@ const Cart: React.FC = () => {
         </div>
       </div>
       }
+      <Footer/>
     </div>
   );
 };

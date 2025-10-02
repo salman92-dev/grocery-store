@@ -1,6 +1,7 @@
 import React from 'react';
 import { FileText, AlertTriangle, CreditCard, Truck, RotateCcw, Scale } from 'lucide-react';
 import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 
 const Terms: React.FC = () => {
   return (
@@ -217,6 +218,7 @@ const Terms: React.FC = () => {
           </div>
         </div>
       </div>
+      <Footer/>
     </div>
   );
 };

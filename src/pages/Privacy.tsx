@@ -1,6 +1,7 @@
 import React from 'react';
 import { FileText, Shield, Eye, Users, Lock, Phone } from 'lucide-react';
 import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 
 const Privacy: React.FC = () => {
   return (
@@ -184,6 +185,7 @@ const Privacy: React.FC = () => {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 };

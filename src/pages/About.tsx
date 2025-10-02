@@ -1,6 +1,7 @@
 import React from 'react';
 import { Leaf, Users, Award, Truck, Heart } from 'lucide-react';
 import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 
 const About: React.FC = () => {
   return (
@@ -122,6 +123,7 @@ const About: React.FC = () => {
           </div>
         </div>
       </section>
+      <Footer />
     </div>
   );
 };
