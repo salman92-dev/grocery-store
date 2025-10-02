@@ -103,12 +103,5 @@
     "price": 90,
     "category": "vegetables",
     "image": "https://images.unsplash.com/photo-1690023603728-f4fc93cf56c9?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  },
-  {
-    "id": 1759384533715,
-    "name": "Salman Ahmad",
-    "price": 6,
-    "category": "vegetable",
-    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1759384528335-ChatGPT-Image-Sep-7--2025--02_11_01-PM.png"
   }
 ]
