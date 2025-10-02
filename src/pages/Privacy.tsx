@@ -165,7 +165,7 @@ const Privacy: React.FC = () => {
                   If you have any questions about this Privacy Policy or our data practices, please contact us:
                 </p>
                 <div className="space-y-2 font-body text-neutral-gray">
-                  <p><strong>Phone:</strong> +92 315 2054175</p>
+                  <p><strong>Phone:</strong> +92 309 0559069</p>
                   <p><strong>Email:</strong> privacy@freshmart.com</p>
                   <p><strong>Address:</strong> Lahore, Punjab, Pakistan</p>
                 </div>

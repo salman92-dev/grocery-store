@@ -79,7 +79,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-heading font-semibold text-foreground">Phone</h3>
-                  <p className="font-body text-neutral-gray">+92 315 2054175</p>
+                  <p className="font-body text-neutral-gray">+92 309 0559069</p>
                 </div>
               </div>
               
@@ -117,7 +117,7 @@ const Contact: React.FC = () => {
             {/* Direct WhatsApp Contact */}
             <div className="mt-8">
               <Button
-                onClick={() => window.open('https://wa.me/923152054175', '_blank')}
+                onClick={() => window.open('https://wa.me/923090559069', '_blank')}
                 className="w-full bg-gradient-fresh text-white hover:bg-fresh-green shadow-button hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300"
               >
                 <MessageCircle className="h-5 w-5 mr-2" />

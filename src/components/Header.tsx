@@ -68,7 +68,7 @@ const Header: React.FC = () => {
             </motion.div>
             <div>
               <h1 className="text-xl md:text-2xl font-heading font-bold text-fresh-green">
-                FreshMart
+                {import.meta.env.VITE_WEBSITE_NAME}
               </h1>
               <p className="text-xs md:text-sm text-neutral-gray font-body hidden sm:block">
                 Farm Fresh Groceries

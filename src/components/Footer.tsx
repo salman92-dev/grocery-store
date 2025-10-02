@@ -1,5 +1,5 @@
 import React from 'react';
-import { Leaf, Phone, Mail, MapPin, Facebook, Instagram, Twitter } from 'lucide-react';
+import { Leaf, Phone, Mail, MapPin, Facebook, Instagram, Twitter, Import } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 const Footer: React.FC = () => {
@@ -28,7 +28,7 @@ const Footer: React.FC = () => {
                 <Leaf className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h3 className="text-xl font-heading font-bold text-fresh-green">FreshMart</h3>
+                <h3 className="text-xl font-heading font-bold text-fresh-green">{import.meta.env.VITE_WEBSITE_NAME}</h3>
                 <p className="text-sm text-neutral-gray font-body">Farm Fresh Groceries</p>
               </div>
             </div>
@@ -88,7 +88,7 @@ const Footer: React.FC = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-fresh-green" />
-                <span className="font-body text-neutral-gray">+92 315 2054175</span>
+                <span className="font-body text-neutral-gray">+92 309 0559069</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-fresh-green" />
@@ -101,7 +101,7 @@ const Footer: React.FC = () => {
             </div>
             <div className="mt-4">
               <button
-                onClick={() => window.open('https://wa.me/923152054175', '_blank')}
+                onClick={() => window.open('https://wa.me/+923090559069', '_blank')}
                 className="px-6 py-2 bg-gradient-fresh text-white font-body font-medium rounded-lg hover:bg-fresh-green transition-all duration-300 shadow-soft hover:shadow-button"
               >
                 Chat on WhatsApp
@@ -113,7 +113,7 @@ const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="border-t border-fresh-green-light/20 mt-8 pt-8 text-center">
           <p className="font-body text-neutral-gray">
-            © 2024 FreshMart. All rights reserved. | Bringing freshness to your doorstep.
+            © 2024 {import.meta.env.VITE_WEBSITE_NAME}. All rights reserved. | Bringing freshness to your doorstep.
           </p>
         </div>
       </div>
