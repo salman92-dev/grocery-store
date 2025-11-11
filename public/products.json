@@ -96,5 +96,12 @@
     "price": 284,
     "category": "fruits",
     "image": "https://images.unsplash.com/photo-1559181567-c3190ca9959b?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 1762838707323,
+    "name": "Safiullah",
+    "price": 100000000,
+    "category": "Human",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1762838702205-IMG_20251111_102357.jpg"
   }
 ]
