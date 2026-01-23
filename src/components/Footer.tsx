@@ -101,7 +101,7 @@ const Footer: React.FC = () => {
             </div>
             <div className="mt-4">
               <button
-                onClick={() => window.open('https://wa.me/+923090559069', '_blank')}
+                onClick={() => window.open('https://wa.me/+923241161920', '_blank')}
                 className="px-6 py-2 bg-gradient-fresh text-white font-body font-medium rounded-lg hover:bg-fresh-green transition-all duration-300 shadow-soft hover:shadow-button"
               >
                 Chat on WhatsApp
