@@ -96,7 +96,7 @@ const Footer: React.FC = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-fresh-green" />
-                <span className="font-body text-neutral-gray">Lahore, Punjab, Pakistan</span>
+                <span className="font-body text-neutral-gray">Sahiwal, Punjab, Pakistan</span>
               </div>
             </div>
             <div className="mt-4">
