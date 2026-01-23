@@ -30,7 +30,7 @@ const Contact: React.FC = () => {
     // Create WhatsApp message
     const message = `*New Contact Form Submission*\n\n*Name:* ${formData.name}\n*Email:* ${formData.email}\n*Phone:* ${formData.phone}\n\n*Message:*\n${formData.message}`;
     
-    const whatsappUrl = `https://wa.me/923152054175?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/923241161920?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
     
     toast({
@@ -80,7 +80,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-heading font-semibold text-foreground">Phone</h3>
-                  <p className="font-body text-neutral-gray">+92 309 0559069</p>
+                  <p className="font-body text-neutral-gray">+92 3241161920</p>
                 </div>
               </div>
               
