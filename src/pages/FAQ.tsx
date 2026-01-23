@@ -211,7 +211,7 @@ const FAQ: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button
-                onClick={() => window.open('https://wa.me/923090559069', '_blank')}
+                onClick={() => window.open('https://wa.me/923241161920', '_blank')}
                 className="px-8 py-3 bg-gradient-fresh text-white font-heading font-semibold rounded-xl shadow-button hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300"
               >
                 Chat on WhatsApp
