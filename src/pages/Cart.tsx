@@ -79,7 +79,7 @@ const Cart: React.FC = () => {
       const message = `🛒 *New Order from FreshMart*\n\n*Items:*\n${orderItems}\n\n*Total: $${state.total.toFixed(2)}*\n\n*Delivery Location:*\n${googleMapsLink}\n\nPlease confirm this order. Thank you!`;
 
       // Replace with your WhatsApp number (without + sign)
-      const whatsappNumber = '923090559069'; // Updated WhatsApp number
+      const whatsappNumber = '923241161920'; // Updated WhatsApp number
       const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
       
       window.open(whatsappUrl, '_blank');
@@ -99,7 +99,7 @@ const Cart: React.FC = () => {
 
       const message = `🛒 *New Order from FreshMart*\n\n*Items:*\n${orderItems}\n\n*Total: PKR : ${state.total.toFixed(2)}*\n\nPlease confirm this order. Thank you!`;
 
-      const whatsappNumber = '923090559069'; // Updated WhatsApp number
+      const whatsappNumber = '923241161920'; // Updated WhatsApp number
       const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
       
       window.open(whatsappUrl, '_blank');
