@@ -113,7 +113,7 @@ const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="border-t border-fresh-green-light/20 mt-8 pt-8 text-center">
           <p className="font-body text-neutral-gray">
-            © 2024 {import.meta.env.VITE_WEBSITE_NAME}. All rights reserved. | Bringing freshness to your doorstep.
+            © 2026 {import.meta.env.VITE_WEBSITE_NAME}. All rights reserved. | Bringing freshness to your doorstep.
           </p>
         </div>
       </div>
