@@ -42,13 +42,6 @@
     "category": "vegetables"
   },
   {
-    "id": 10,
-    "name": "Wild-Caught Salmon - 1 kg",
-    "price": 2000,
-    "image": "https://images.unsplash.com/photo-1544943910-4c1dc44aab44?w=400&h=300&fit=crop",
-    "category": "meat"
-  },
-  {
     "id": 11,
     "name": "Organic Bananas - 1 Dozen",
     "price": 120,
