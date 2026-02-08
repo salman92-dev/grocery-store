@@ -103,5 +103,12 @@
     "price": 50,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770528939606-images.webp"
+  },
+  {
+    "id": 1770529069585,
+    "name": "Cartot",
+    "price": 40,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770529066950-images.jpeg"
   }
 ]
