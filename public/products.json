@@ -96,5 +96,12 @@
     "price": 40,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770529066950-images.jpeg"
+  },
+  {
+    "id": 1770529225801,
+    "name": "Cucumber ",
+    "price": 60,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770529212091-images--2-.jpeg"
   }
 ]
