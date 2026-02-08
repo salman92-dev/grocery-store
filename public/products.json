@@ -110,5 +110,12 @@
     "price": 40,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770529291451-images--3-.jpeg"
+  },
+  {
+    "id": 1770529392421,
+    "name": "Onion",
+    "price": 80,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770529387634-images--4-.jpeg"
   }
 ]
