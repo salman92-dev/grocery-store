@@ -61,5 +61,12 @@
     "price": 80,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770529387634-images--4-.jpeg"
+  },
+  {
+    "id": 1770530048441,
+    "name": "Pea",
+    "price": 50,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530045642-images--1-.webp"
   }
 ]
