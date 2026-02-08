@@ -7,13 +7,6 @@
     "category": "vegetables"
   },
   {
-    "id": 6,
-    "name": "Free-Range Chicken Breast - 1 kg",
-    "price": 700,
-    "image": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=400&h=300&fit=crop",
-    "category": "meat"
-  },
-  {
     "id": 9,
     "name": "Bell Peppers Mix - 1 kg",
     "price": 60,
