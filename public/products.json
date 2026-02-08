@@ -117,5 +117,12 @@
     "price": 600,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770532029150-images--14-.jpeg"
+  },
+  {
+    "id": 1770532176381,
+    "name": "Fenugreek - 1 unit",
+    "price": 20,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770532167149-images--15-.jpeg"
   }
 ]
