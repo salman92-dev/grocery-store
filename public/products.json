@@ -1,12 +1,5 @@
 [
   {
-    "id": 4,
-    "name": "Fresh Whole Milk - 1 liter ",
-    "price": 220,
-    "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b",
-    "category": "grocerie"
-  },
-  {
     "id": 5,
     "name": "Organic Carrots - 1 kg",
     "price": 120,
