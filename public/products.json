@@ -110,5 +110,12 @@
     "price": 50,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530897636-images--10-.jpeg"
+  },
+  {
+    "id": 1770531027862,
+    "name": "Tindi",
+    "price": 60,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770531024837-images--11-.jpeg"
   }
 ]
