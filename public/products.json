@@ -75,5 +75,12 @@
     "price": 200,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530284505-images--2-.webp"
+  },
+  {
+    "id": 1770530374090,
+    "name": "Green chili ",
+    "price": 160,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530371443-images--5-.jpeg"
   }
 ]
