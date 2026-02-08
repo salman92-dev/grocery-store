@@ -103,5 +103,12 @@
     "price": 20,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770531368616-images--12-.jpeg"
+  },
+  {
+    "id": 1770531548943,
+    "name": "Ginger",
+    "price": 400,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770531544833-images--13-.jpeg"
   }
 ]
