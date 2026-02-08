@@ -1,12 +1,5 @@
 [
   {
-    "id": 2,
-    "name": "Grass-Fed Ground Beef -  1 kg",
-    "price": 950,
-    "image": "https://images.unsplash.com/photo-1603048297172-c92544798d5a?w=400&h=300&fit=crop",
-    "category": "meat"
-  },
-  {
     "id": 3,
     "name": "Organic Gala Apples - 1 kg",
     "price": 180,
