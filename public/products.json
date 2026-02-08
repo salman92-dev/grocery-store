@@ -68,5 +68,12 @@
     "price": 50,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530045642-images--1-.webp"
+  },
+  {
+    "id": 1770530287441,
+    "name": "Capsucum",
+    "price": 200,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530284505-images--2-.webp"
   }
 ]
