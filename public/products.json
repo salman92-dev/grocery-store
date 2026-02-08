@@ -89,5 +89,12 @@
     "price": 30,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530587337-images--7-.jpeg"
+  },
+  {
+    "id": 1770530675920,
+    "name": "Lemon - 1kg",
+    "price": 120,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530673037-images--8-.jpeg"
   }
 ]
