@@ -96,5 +96,12 @@
     "price": 120,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530673037-images--8-.jpeg"
+  },
+  {
+    "id": 1770530795997,
+    "name": "Cauliflower",
+    "price": 50,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530791440-images--9-.jpeg"
   }
 ]
