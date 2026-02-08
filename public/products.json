@@ -82,5 +82,12 @@
     "price": 150,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530521680-images--6-.jpeg"
+  },
+  {
+    "id": 1770530592190,
+    "name": "Potato",
+    "price": 30,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530587337-images--7-.jpeg"
   }
 ]
