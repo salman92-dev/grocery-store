@@ -103,5 +103,12 @@
     "price": 50,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530791440-images--9-.jpeg"
+  },
+  {
+    "id": 1770530901797,
+    "name": "Cabbage",
+    "price": 50,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770530897636-images--10-.jpeg"
   }
 ]
