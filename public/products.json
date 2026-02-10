@@ -131,5 +131,12 @@
     "price": 160,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770723230636-Radish-Pods-Mongra-Fali-ApnaSabji.jpg"
+  },
+  {
+    "id": 1770723356292,
+    "name": "Brinjal",
+    "price": 180,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770723353416-images--14-.jpeg"
   }
 ]
