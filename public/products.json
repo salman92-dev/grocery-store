@@ -124,5 +124,12 @@
     "price": 20,
     "category": "vegetables",
     "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770532167149-images--15-.jpeg"
+  },
+  {
+    "id": 1770723233419,
+    "name": "Mungre",
+    "price": 160,
+    "category": "vegetables",
+    "image": "https://raw.githubusercontent.com/salman92-dev/grocery-store/main/public/1770723230636-Radish-Pods-Mongra-Fali-ApnaSabji.jpg"
   }
 ]
